@@ -1,4 +1,4 @@
-FROM quay.io/vektorcloud/base:3.6
+FROM quay.io/vektorcloud/base:3.7
 
 ENV \ 
   OCAML_VERSION=4.04.1-r0  \

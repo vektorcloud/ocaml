@@ -10,4 +10,4 @@
 --------|-------
  4.04.1 | 1.2.2 
 
-[circleci]: https://img.shields.io/circleci/project/github/vektorcloud/ocaml.svg "ocaml"
+[circleci]: https://img.shields.io/circleci/build/gh/vektorcloud/ocaml?color=1dd6c9&logo=CircleCI&logoColor=1dd6c9&style=for-the-badge "ocaml"

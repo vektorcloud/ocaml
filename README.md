@@ -1,6 +1,6 @@
 # [OCaml](http://ocaml.org/) on Alpine
 
-![circleci][circleci]
+[![circleci][circleci]](https://circleci.com/gh/vektorcloud/ocaml)
 
 [![Docker Repository on Quay](https://quay.io/repository/vektorcloud/ocaml/status "Docker Repository on Quay")](https://quay.io/repository/vektorcloud/ocaml)
 
